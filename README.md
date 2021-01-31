@@ -9,7 +9,7 @@
 - [resume](https://mojganqaredaqi.github.io/)
 - [SOP](https://mojganqaredaqi.github.io/SOP/)
 - [javascript Certificate]
- 
+- [پروزه تعامل انسان و کامپیوتر]
 
 ------------------
 
