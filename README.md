@@ -8,7 +8,7 @@
 - [PNU_3991_AR](https://github.com/mojganqaredaqi/PNU_3991_AR)
 - [resume](https://github.com/mojganqaredaqi/mojgan.qaredagi)
 - [SOP](https://mojganqaredaqi.github.io/SOP/)
-- [javascript Certificate](http://github.com/mojganqaredaqi/PNU_3991_AR)
+- [javascript Certificate](http://mojganqaredaqi/PNU_3991_AR/JavaScript_certificate.jpg)
 - [پروزه تعامل انسان و کامپیوتر](wps.html)
 - [ارزشیابی](PNU_3991_AR/ارزشیابی.pdf)
 ------------------
