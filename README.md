@@ -48,15 +48,15 @@
      
      
      ..
-     </th>
+    </th>
      <th></th>   
      <th>شبکه های کامپیوتری</th>  
      <th></th>  
      <th></th>  
      <th></th> 
      <th>شنبه</th> 
-     </tr> 
-     <tr>
+   </tr> 
+    <tr>
      <th></th> 
      <th></th>  
      <th></th>  
@@ -64,15 +64,15 @@
      <th></th>   
      <th></th>  
      <th>دو شنبه</th> 
-     </tr>  
-     <tr> 
+   </tr>  
+    <tr> 
      <th></th> 
      <th>تعامل انسان و کامپیوتر</th>   
      <th></th> 
      <th></th>  
      <th>سه شنبه</th> 
-     </tr>  
-     <tr>  
+   </tr>  
+    <tr>  
      <th></th>  
      <th></th>  
      <th></th> 
@@ -81,8 +81,8 @@
      <th></th>  
      </th> 
      <th>چهارشنبه</th>
-     </tr> 
-     <tr>  
+   </tr> 
+    <tr>  
      <th></th>   
      <th></th>  
      <th></th>  
@@ -90,7 +90,8 @@
      <th></th> 
      <th></th>  
      <th>پنج شنبه</th> 
-     </tr></table>
+    </tr>
+ </table>
      
      --------------
 
