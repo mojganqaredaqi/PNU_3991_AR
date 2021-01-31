@@ -6,7 +6,7 @@
 
 - [github](https://github.com/mojganqaredaqi)
 - [PNU_3991_AR](https://github.com/mojganqaredaqi/PNU_3991_AR)
-- [resume](https://mojgan.qaredaqi.github.io/resume/)
+- [resume](https://github.com/mojgan.qaredaqi)
 - [SOP](https://mojganqaredaqi.github.io/SOP/)
 - [javascript Certificate](http://github.com/mojganqaredaqi/PNU_3991_AR)
 - [پروزه تعامل انسان و کامپیوتر](wps.html)
