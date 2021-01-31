@@ -69,8 +69,8 @@
     <th>فیزیک2</t  
     <th></th>   
     <th>دوشنبه</th>
-    </tr>  
-    <tr>  
+   </tr>  
+   <tr>  
   <th></th>   
   <th></th>  
   <th></th>  
