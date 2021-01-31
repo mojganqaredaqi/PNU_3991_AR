@@ -4,6 +4,15 @@
 
 ---
 
+- [github](https://github.com/mojganqaredaqi/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/mojganqaredaqi/PNU_3991_AR)
+- [resume](https://mojganqaredaqi.github.io/)
+- [SOP](https://mojganqaredaqi.github.io/SOP/)
+- [javascript Certificate](https://github.com/mojganqaredaqi/PNU_3991_AR/blob/main/js.jpeg
+ 
+
+------------------
+
 ### about Me 
 I am mojgan qaredaqi . I am an english teacher(IELTS) my students call me maggie that is my nickname . Also a lifeguard and international swimming coach.I have been swimming since I was 13 years old and played volleyball professionally about 5 years.I study computer engineering at Payame Noor University.
 ### personal information
