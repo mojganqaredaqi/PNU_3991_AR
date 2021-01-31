@@ -8,7 +8,7 @@
 - [PNU_3991_AR](https://github.com/mojganqaredaqi/PNU_3991_AR)
 - [resume](https://mojganqaredaqi.github.io/)
 - [SOP](https://mojganqaredaqi.github.io/SOP/)
-- [javascript Certificate](https://github.com/mojganqaredaqi/PNU_3991_AR/blob/main/js.jpeg
+- [javascript Certificate]
  
 
 ------------------
